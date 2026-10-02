@@ -15,7 +15,7 @@
 
 ## Desktop Customization
 ### Velora Desktop
-- Website: <https://github.com/Anuppaul/velora-desktop>
+- Website: None
 - Source Code: <https://github.com/Anuppaul/velora-desktop>
 
 ## GIF Recorder
