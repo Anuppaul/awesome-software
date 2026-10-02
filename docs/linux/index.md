@@ -13,6 +13,11 @@
 - Website: <https://lutris.net/>
 - Source Code: <https://github.com/lutris/lutris>
 
+## Desktop Customization
+### Velora Desktop
+- Website: <https://github.com/Anuppaul/velora-desktop>
+- Source Code: <https://github.com/Anuppaul/velora-desktop>
+
 ## GIF Recorder
 ### Spectacle
 - Website: <https://apps.kde.org/spectacle/>
